@@ -1,0 +1,5 @@
+calculator on click functions
+  when a number is CLICKED on the calc the display will PRINT that number and that number will be STORED as the first number in the operation (a), when the operator is CLICKED the screen will PRINT the operator after the first number (a +), the operator will become the oper.  when the second number is CLICKED it will be PRINTED on the screen and once the equals button is clicked the approaite math function will run and the display will print the solution.
+
+
+num1 CLICKED => display(num1), count = num1 => oper CLICKED => display(num1,oper) oper = oper => num2 clicked => display(num1,oper,num2), count2 = num2, => equals CLICKED => math functions run => display(solution);
